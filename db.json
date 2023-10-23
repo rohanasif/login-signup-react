@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "rohanasif",
+      "email": "rohanasif@yahoo.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "abdullah",
+      "email": "abdullah@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "maaz",
+      "email": "maaz@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "rohanasif1990",
+      "email": "rohanasif11@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}
